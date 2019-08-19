@@ -152,6 +152,12 @@ jQuery(document).ready(function() {
 			'intent': 'z-score:'
 		},
 		{
+			'url': 'data/verbal_association-test_z_FDR_0.01.nii.gz',
+			'name': 'Color',
+			'colorPalette': 'red',
+			'intent': 'z-score:'
+		},
+		{
 			'url': 'data/events_association-test_z_FDR_0.01.nii.gz',
 			'name': 'Grayscale',
 			'colorPalette': 'red',
