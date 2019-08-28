@@ -23,6 +23,13 @@ body {
   left: 800px;
 }
 
+#scale {
+  width: 280px;
+  height: 220px;
+}
+
+
+
 #views_left {
 	width: 265px;
 	float: left;
